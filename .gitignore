@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos (opcional: si el archivo es muy pesado, mejor no subirlo a GitHub)
+# data/raw/*.csv
+
+# VS Code
+.vscode/
